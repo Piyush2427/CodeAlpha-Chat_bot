@@ -23,9 +23,4 @@ PyPal is a lightweight Python chatbot that can:
 
 ---
 
-## 📦 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/PyPal-Chatbot.git
-   cd PyPal-Chatbot
